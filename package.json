@@ -1,0 +1,17 @@
+{
+  "name": "sleep-sort",
+  "version": "0.0.1",
+  "description": " Implementation of the sleep-sort algorithm.",
+  "main": "lib/main.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test/*.js"
+  },
+  "repository": "",
+  "author": "picsoung",
+  "license": "BSD",
+  "readmeFilename": "ReadMe.md",
+  "gitHead": "15532cdf670145acf58efc87d26f6a40ac5fb352"
+}
