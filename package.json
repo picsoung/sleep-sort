@@ -9,6 +9,10 @@
   "scripts": {
     "test": "mocha test/*.js"
   },
+  "devDependencies": {
+   "mocha": "",
+   "should": ""
+  },
   "repository": "",
   "author": "picsoung",
   "license": "BSD",
