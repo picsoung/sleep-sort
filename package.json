@@ -14,7 +14,10 @@
    "should": ""
   },
   "bin": { "sleep-sort": "./bin/sleep-sort" },
-  "repository": "",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/picsoung/sleep-sort.git"
+  },
   "author": "picsoung",
   "license": "BSD",
   "readmeFilename": "ReadMe.md",
