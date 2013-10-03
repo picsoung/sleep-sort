@@ -13,6 +13,7 @@
    "mocha": "",
    "should": ""
   },
+  "bin": { "sleep-sort": "./bin/sleep-sort" },
   "repository": "",
   "author": "picsoung",
   "license": "BSD",
